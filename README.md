@@ -21,6 +21,7 @@ to be trained to speak any language.
 [![Build Status](https://travis-ci.org/tigerTech888/ChatterBot-master.svg?branch=master)](https://travis-ci.org/tigerTech888/ChatterBot-master)
 ![GitHub](https://img.shields.io/github/license/tigerTech888/ChatterBot-master.svg)
 
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/b/tigerTech888/ChatterBot-master/chatterbot.svg)
 
 An example of typical input would be something like this:
 
