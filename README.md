@@ -16,6 +16,10 @@ to be trained to speak any language.
 [![Coverage Status](https://img.shields.io/coveralls/gunthercox/ChatterBot.svg)](https://coveralls.io/r/gunthercox/ChatterBot)
 [![Code Climate](https://codeclimate.com/github/gunthercox/ChatterBot/badges/gpa.svg)](https://codeclimate.com/github/gunthercox/ChatterBot)
 [![Join the chat at https://gitter.im/chatterbot/Lobby](https://badges.gitter.im/chatterbot/Lobby.svg)](https://gitter.im/chatterbot/Lobby?utm_source=badge&utm_medium=badge&utm_content=badge)
+-------------------------------------------------------------------------------------------------------------------------
+
+[![Build Status](https://travis-ci.org/tigerTech888/ChatterBot-master.svg?branch=master)](https://travis-ci.org/tigerTech888/ChatterBot-master)
+
 
 An example of typical input would be something like this:
 
